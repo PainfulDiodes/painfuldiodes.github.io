@@ -6,6 +6,6 @@ Hackaday [hackaday.io/painfuldiodes](https://hackaday.io/painfuldiodes)
 
 BlueSky: [painfuldiodes.bsky.social](https://bsky.app/profile/painfuldiodes.bsky.social)
 
-Facebook: [https://www.facebook.com/PainfulDiodes/](facebook.com/PainfulDiodes)
+Facebook: [facebook.com/PainfulDiodes](https://www.facebook.com/PainfulDiodes/)
 
 Insta: [instagram.com/painfuldiodes](https://www.instagram.com/painfuldiodes)
