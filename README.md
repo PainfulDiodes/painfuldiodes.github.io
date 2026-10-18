@@ -2,10 +2,12 @@ Blog: [painfuldiodes.wordpress.com](https://painfuldiodes.wordpress.com/)
 
 Github: [github.com/PainfulDiodes](https://github.com/PainfulDiodes)
 
-Hackaday [hackaday.io/painfuldiodes](https://hackaday.io/painfuldiodes)
+Facebook: [facebook.com/PainfulDiodes](https://www.facebook.com/PainfulDiodes/)
 
 BlueSky: [painfuldiodes.bsky.social](https://bsky.app/profile/painfuldiodes.bsky.social)
 
-Facebook: [facebook.com/PainfulDiodes](https://www.facebook.com/PainfulDiodes/)
+YouTube : [youtube.com/@painfuldiodes](https://youtube.com/@painfuldiodes)
 
 Insta: [instagram.com/painfuldiodes](https://www.instagram.com/painfuldiodes)
+
+Hackaday: [hackaday.io/painfuldiodes](https://hackaday.io/painfuldiodes)
