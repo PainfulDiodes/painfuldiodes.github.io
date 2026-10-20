@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Links in a lighter shade of the hacker theme's green (#b5e853)
+a {
+  color: #d4f59a;
+  text-shadow: 0 0 5px rgba(181, 232, 83, 0.5);
+}
