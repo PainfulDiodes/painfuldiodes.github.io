@@ -8,3 +8,13 @@ a {
   color: #d4f59a;
   text-shadow: 0 0 5px rgba(181, 232, 83, 0.5);
 }
+
+// ">" text bullets in place of the theme's ">>" bullet image
+ul li {
+  list-style-image: none;
+  list-style-type: "> ";
+}
+
+ul li::marker {
+  color: #b5e853;
+}
